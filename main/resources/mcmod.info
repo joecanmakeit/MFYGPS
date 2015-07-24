@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MFYGPS",
+  "name": "MFYGPS",
+  "description": "A simple GPS item",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Joe Allington"],
+  "credits": "Joe Allington, MakersFactory",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
